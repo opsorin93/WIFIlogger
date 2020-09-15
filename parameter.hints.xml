@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="androidx.recyclerview.widget.LinearLayoutManager.LinearLayoutManager(context)" />
+        <added pattern="android.widget.Toast.makeText(context,text,duration)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>
