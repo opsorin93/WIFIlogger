@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088432065921",
+    "firebase_url": "https://wifilogger-d97f7.firebaseio.com",
+    "project_id": "wifilogger-d97f7",
+    "storage_bucket": "wifilogger-d97f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088432065921:android:f8827ff37a2afef26fac80",
+        "android_client_info": {
+          "package_name": "com.example.wifilogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088432065921-nne9cnftgvi8vv678jilirjcch82hd5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wifilogger",
+            "certificate_hash": "967eee5fdfc4c78b8d613040b8bbb1707b534b29"
+          }
+        },
+        {
+          "client_id": "1088432065921-nnhh26j9dt701qnc67p5kbedmqrdf222.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbY8-N9Yv9mKWqyRiFg-B60NcC-H9iz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088432065921-nnhh26j9dt701qnc67p5kbedmqrdf222.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
